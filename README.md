@@ -1,1 +1,3 @@
 # pizza_hut_SQL_Project 
+
+This project focused on analyzing Pizza Hut sales data using SQL to understand business performance. I worked with sales and order data to find useful insights such as the busiest ordering times, the most popular pizza sizes and categories, and the pizzas that generated the highest revenue. By using SQL techniques like joins, calculations, and rankings, I was able to identify customer preferences and sales trends. The project shows my ability to analyze real business data, solve problems using SQL, and convert raw data into meaningful insights that can help in better decision-making
